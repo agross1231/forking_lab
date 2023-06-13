@@ -1,2 +1,2 @@
 Alex Gross
-Meta Front End Developer
+Meta Front End
